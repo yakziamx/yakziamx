@@ -1,19 +1,17 @@
 <h1 align="center">Hola 👋, Mi nombre es Jonathan Mendoza</h1>
 <h3 align="center">Un apasionado por el mundo tecnológico desde México 🌮</h3>
 
-<p align="left"> <a href="https://twitter.com/yakziamx" target="blank"><img src="https://img.shields.io/twitter/follow/yakziamx?logo=twitter&style=for-the-badge" alt="yakziamx" /></a> </p>
-
 - 🔭 Actualmente estoy trabajando en [AoELatam.com](https://aoelatam.com)
 
-- 🌱 Actualmente estoy aprendiendo **Python**
+- 🌱 Estoy aprendiendo sobre **Python**
 
 - 📝 Regularmente escribo en [https://jonathanmendoza.mx/](https://jonathanmendoza.mx/)
 
-- 💬 Puedes preguntarme sobre **Excel y Visual Basic .Net**
+- 💬 Puedes preguntarme de **Excel y Visual Basic .Net**
 
-- 📫 Puedes ponerte en contacto en **jm@jonathanmendoza.mx**
+- 📫 Escríbeme a **jm@jonathanmendoza.mx**
 
-- ⚡ Mi diversión es **Age of Empires II: Definite Edition**
+- ⚡ Mi diversión es **Age of Empires II: Definite Edition 🏹**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +30,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yakziamx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yakziamx" /></a><a href="https://ko-fi.com/yakziamx"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yakziamx" /></a></p><br><br>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yakziamx&show_icons=true&locale=en&layout=compact" alt="yakziamx" /></p>
 
